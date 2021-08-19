@@ -18,7 +18,6 @@ public class Main {
     // System.out.println("Hello world");
     // i++;
     // }
-
     // break and continue
     // Scanner scanner = new Scanner(System.in);
     // String input = "";
